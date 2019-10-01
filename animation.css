@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 100px;
+    backgroud-color: #0074d9;
+    border-radius: 50%;
+}
+
+body {
+    diplay: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 400px;
+}
