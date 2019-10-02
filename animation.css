@@ -1,12 +1,12 @@
 .box {
     width: 100px;
     height: 100px;
-    backgroud-color: #0074d9;
+    background-color: Red;
     border-radius: 50%;
 }
 
 body {
-    diplay: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;

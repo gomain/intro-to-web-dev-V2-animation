@@ -1,0 +1,26 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "https://btholt.github.io/intro-to-web-dev-v2/libraries",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": ". npm.sh run ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomain/intro-to-web-dev-V2-animation.git"
+  },
+  "author": "gomain@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gomain/intro-to-web-dev-V2-animation/issues"
+  },
+  "homepage": "https://github.com/gomain/intro-to-web-dev-V2-animation#readme",
+  "devDependencies": {
+    "parcel-bundler": "1.12.3"
+  },
+  "dependencies": {
+    "popmotion": "8.7.0"
+  }
+}
