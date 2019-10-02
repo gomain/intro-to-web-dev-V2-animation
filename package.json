@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "https://btholt.github.io/intro-to-web-dev-v2/libraries",
   "main": "index.html",
+  "engines": {
+    "node": "10"
+  },
   "scripts": {
     "start": "parcel index.html",
-    "test": ". npm.sh run ci"
+    "test": ". npm.sh run ci",
+    "build": "parcel build -d public index.html"
   },
   "repository": {
     "type": "git",
